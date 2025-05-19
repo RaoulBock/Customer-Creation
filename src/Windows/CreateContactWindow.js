@@ -41,6 +41,7 @@ const CreateContactWindow = () => {
     });
 
     // Optionally show a success message or redirect
+    console.log("Creatded")
   };
 
   return (
